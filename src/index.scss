@@ -1,0 +1,11 @@
+// 撑满整个屏幕
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+#root,
+.App {
+    height: 100%;
+}
